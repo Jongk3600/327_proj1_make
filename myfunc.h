@@ -1,5 +1,8 @@
-std::string func()
-{
-	//say hello
-	return "hello";
-}
+#include <iostream>
+#include <string>
+
+
+
+
+
+std::string func();
